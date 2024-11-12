@@ -1,0 +1,6 @@
+# Aula 16 = 06/11/2024
+1. Para utilizar comentarios no blade, utilizamos {{-- --}}...
+
+2. Para Utilizar codigo php, colocamos o php...
+ @php
+    echo 'Texto de teste';
